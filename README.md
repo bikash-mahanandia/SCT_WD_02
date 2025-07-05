@@ -29,7 +29,7 @@ stopwatch/
 
 ## 📸 Preview
 
-![screenshot](Screenshot 2025-07-05 134809.png)  
+![screenshot]([Screenshot 2025-07-05 134809.png](https://github.com/bikash-mahanandia/SCT_WD_02/blob/main/Screenshot%202025-07-05%20134809.png))  
 
 
 
