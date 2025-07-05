@@ -29,7 +29,7 @@ stopwatch/
 
 ## 📸 Preview
 
-![screenshot](https://screenshot-url.com)  
+![screenshot](Screenshot 2025-07-05 134809.png)  
 
 
 
